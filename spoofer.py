@@ -14,7 +14,7 @@ banner = ('''
 ██║ ╚═╝ ██║██║  ██║╚██████╗    ███████║██║     ╚██████╔╝╚██████╔╝██║     ███████╗██║  ██║
 ╚═╝     ╚═╝╚═╝  ╚═╝ ╚═════╝    ╚══════╝╚═╝      ╚═════╝  ╚═════╝ ╚═╝     ╚══════╝╚═╝  ╚═╝ 
             
-                                           CODED BY ANON_DARKPHANTOM
+                                                       CODED BY ANON_DARKPHANTOM
 
 [1] - Custom mac address
 [2] - Random mac address
